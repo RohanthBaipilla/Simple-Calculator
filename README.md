@@ -8,6 +8,10 @@ This is a simple calculator web application implemented using HTML, CSS, and Jav
 
 Check out the live demo [here](https://rohanthbaipilla.github.io/Simple-Calculator/).
 
+## Deployment Link
+
+https://rohanthbaipilla.github.io/Simple-Calculator/
+
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
